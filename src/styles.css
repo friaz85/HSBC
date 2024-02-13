@@ -12,7 +12,7 @@
 
 
 html, body { height: 100%; font-family: 'Scotia' !important;}
-body { margin: 0;}
+body { margin: 0; background: #fff;}
 
 .wrapper {
   height: auto !important;
